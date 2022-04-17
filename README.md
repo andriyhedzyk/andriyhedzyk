@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning REACT JS
-- 📫 How to reach me: **andriy.hedzyk@gmail.com
+- 📫 How to reach me: **andriy.hedzyk@gmail.com**
 - ⚡ Fun fact: I play the flaming saxophone 🎷🔥
 
 ### My stack and tools
