@@ -31,7 +31,7 @@
 
 <img align="left" alt="Git" width="32px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
-<img align="left" alt="GitHub" width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img align="left" alt="GitHub" width="32px" src="https://w7.pngwing.com/pngs/588/441/png-transparent-github-git-hub-repository-social-icons-circular-color-icon.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
