@@ -23,7 +23,7 @@
 
 <img align="left" alt="Sax" width="32px" src="https://cdn-icons-png.flaticon.com/512/199/199430.png"/>
 
-<img align="left" alt="Tailwind" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png/>
+<img align="left" alt="Tailwind" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png"/>
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
